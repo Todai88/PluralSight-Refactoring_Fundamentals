@@ -1,0 +1,8 @@
+D:\Schoolwork\Cygwin\Studies\Refactoring_Fundamentals\HomeHeatingCalc\HomeHeatingCalc\obj\Debug\HomeHeatingCalc.csprojResolveAssemblyReference.cache
+D:\Schoolwork\Cygwin\Studies\Refactoring_Fundamentals\HomeHeatingCalc\HomeHeatingCalc\bin\Debug\HomeHeatingCalc.exe.config
+D:\Schoolwork\Cygwin\Studies\Refactoring_Fundamentals\HomeHeatingCalc\HomeHeatingCalc\bin\Debug\HomeHeatingCalc.exe
+D:\Schoolwork\Cygwin\Studies\Refactoring_Fundamentals\HomeHeatingCalc\HomeHeatingCalc\bin\Debug\HomeHeatingCalc.pdb
+D:\Schoolwork\Cygwin\Studies\Refactoring_Fundamentals\HomeHeatingCalc\HomeHeatingCalc\bin\Debug\nunit.framework.dll
+D:\Schoolwork\Cygwin\Studies\Refactoring_Fundamentals\HomeHeatingCalc\HomeHeatingCalc\bin\Debug\nunit.framework.xml
+D:\Schoolwork\Cygwin\Studies\Refactoring_Fundamentals\HomeHeatingCalc\HomeHeatingCalc\obj\Debug\HomeHeatingCalc.exe
+D:\Schoolwork\Cygwin\Studies\Refactoring_Fundamentals\HomeHeatingCalc\HomeHeatingCalc\obj\Debug\HomeHeatingCalc.pdb

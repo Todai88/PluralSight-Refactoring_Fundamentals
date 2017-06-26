@@ -1,0 +1,17 @@
+D:\Schoolwork\Cygwin\Studies\Refactoring_Fundamentals\HomeHeatingCalc\UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Schoolwork\Cygwin\Studies\Refactoring_Fundamentals\HomeHeatingCalc\UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Schoolwork\Cygwin\Studies\Refactoring_Fundamentals\HomeHeatingCalc\UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Schoolwork\Cygwin\Studies\Refactoring_Fundamentals\HomeHeatingCalc\UnitTests\bin\Debug\UnitTests.dll
+D:\Schoolwork\Cygwin\Studies\Refactoring_Fundamentals\HomeHeatingCalc\UnitTests\bin\Debug\UnitTests.pdb
+D:\Schoolwork\Cygwin\Studies\Refactoring_Fundamentals\HomeHeatingCalc\UnitTests\bin\Debug\HomeHeatingCalc.exe
+D:\Schoolwork\Cygwin\Studies\Refactoring_Fundamentals\HomeHeatingCalc\UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\Schoolwork\Cygwin\Studies\Refactoring_Fundamentals\HomeHeatingCalc\UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\Schoolwork\Cygwin\Studies\Refactoring_Fundamentals\HomeHeatingCalc\UnitTests\bin\Debug\nunit.framework.dll
+D:\Schoolwork\Cygwin\Studies\Refactoring_Fundamentals\HomeHeatingCalc\UnitTests\bin\Debug\HomeHeatingCalc.pdb
+D:\Schoolwork\Cygwin\Studies\Refactoring_Fundamentals\HomeHeatingCalc\UnitTests\bin\Debug\HomeHeatingCalc.exe.config
+D:\Schoolwork\Cygwin\Studies\Refactoring_Fundamentals\HomeHeatingCalc\UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\Schoolwork\Cygwin\Studies\Refactoring_Fundamentals\HomeHeatingCalc\UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\Schoolwork\Cygwin\Studies\Refactoring_Fundamentals\HomeHeatingCalc\UnitTests\bin\Debug\nunit.framework.xml
+D:\Schoolwork\Cygwin\Studies\Refactoring_Fundamentals\HomeHeatingCalc\UnitTests\obj\Debug\UnitTests.csprojResolveAssemblyReference.cache
+D:\Schoolwork\Cygwin\Studies\Refactoring_Fundamentals\HomeHeatingCalc\UnitTests\obj\Debug\UnitTests.dll
+D:\Schoolwork\Cygwin\Studies\Refactoring_Fundamentals\HomeHeatingCalc\UnitTests\obj\Debug\UnitTests.pdb
